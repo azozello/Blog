@@ -1,0 +1,9 @@
+servlets\AllArticles.class
+servlets\CreateNewArticle.class
+servlets\doLogin.class
+classes\DataBase.class
+classes\User.class
+servlets\Main.class
+servlets\Logout.class
+servlets\CreateNewUser.class
+classes\Article.class
